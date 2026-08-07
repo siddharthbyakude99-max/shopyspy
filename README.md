@@ -44,7 +44,7 @@ Or clone this repository and serve it with any static-file server.
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f9f9f9;
+            background-image: #https://github.com/siddharthbyakude99-max/shopyspy/blob/d5d3c0d555c7c46c5393af7f630b2d047cc0c7a3/file_000000005a5082118a15eba162a558c8.png;
         }
         header {
             background-color: #333;
