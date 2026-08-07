@@ -1,3 +1,38 @@
+# Digital Products Gallery
+
+A simple gallery showcasing digital/fashion products. This repository contains a lightweight static HTML gallery you can open in a browser or use as a starting point for a small storefront or demo.
+
+---
+
+## Preview
+
+Open `index.html` (or this README's HTML snippet) in a browser to see a grid of product cards. You can replace the placeholder images with real assets.
+
+![Gallery preview](https://via.placeholder.com/800x200)
+
+---
+
+## Features
+
+- Responsive CSS grid layout (auto-fit, minmax)
+- Product cards with image, title and description
+- Hover scale animation for a subtle effect
+- Minimal, dependency-free HTML/CSS
+
+---
+
+## Usage
+
+1. Save the HTML below as `index.html` in the repo root.
+2. Open `index.html` in your browser.
+
+Or clone this repository and serve it with any static-file server.
+
+---
+
+## HTML source
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -75,3 +110,25 @@
     </section>
 </body>
 </html>
+```
+
+---
+
+## Customize
+
+- Replace placeholder images with real images (hosted in repo or via CDN).
+- Add product links and prices as needed.
+- Improve accessibility by adding ARIA roles and more descriptive alt text.
+- Consider extracting CSS into a separate `styles.css` if you expand the project.
+
+---
+
+## License
+
+Add a LICENSE file if you want to state reuse terms (MIT, Apache-2.0, etc.).
+
+---
+
+## Contact
+
+Questions or changes? Open an issue or PR in this repository.
