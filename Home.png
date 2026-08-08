@@ -1,0 +1,12 @@
+<section id="home" class="catalogue home-section">
+    <h1>Welcome to ShopSpy</h1>
+
+    <p>
+        Discover trending fashion, accessories and lifestyle
+        products carefully selected for you.
+    </p>
+
+    <a href="#products" class="catalogue-btn">
+        Explore Products
+    </a>
+</section>
