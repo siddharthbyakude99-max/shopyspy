@@ -1,1 +1,15 @@
 
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('background.png');
+        linear-gradient(
+        rgba(0, 0, 0, 0.35),
+        rgba(0, 0, 0, 0.35)
+    ), url('background.png'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #F8F6F2;
+    margin: 0;
+    padding: 0;
+}
