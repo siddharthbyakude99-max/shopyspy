@@ -1,18 +1,18 @@
 https://amzn.in/d/07gxMRUg
-<!-- Product 3 -->
+<!-- Product 4 -->
 <div class="product">
     <a href="https://amzn.in/d/07gxMRUg" target="_blank" rel="noopener noreferrer">
-        <img src="product3.jpg" alt="Product 3">
+        <img src="product4.jpg" alt="Product 4">
     </a>
 
-    <h3>Premium Fashion Product 3</h3>
+    <h4>Premium Fashion Product 4</h4>
 
     <p>
         Discover this stylish product and check the latest
         price and details on Amazon.
     </p>
 
-    <a href="https://amzn.in/d/0bMYxOnl"
+    <a href="https://amzn.in/d/07gxMRUg"
        target="_blank"
        rel="noopener noreferrer"
        class="buy-btn">
